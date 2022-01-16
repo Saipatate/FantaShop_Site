@@ -1,0 +1,7 @@
+@media (max-width: 1070px) {
+  .container-rate {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
